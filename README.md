@@ -1,4 +1,4 @@
-# Sellora Service Registry Service
+# Sellora Service Registry
 
 A **service discovery server** built on **Netflix Eureka**. It acts as the central directory for all microservices in the **Sellora** architecture, enabling dynamic service discovery, load balancing, and inter-service communication without hardcoded URLs.
 
